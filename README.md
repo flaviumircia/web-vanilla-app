@@ -1,4 +1,4 @@
-# Wev-vanilla-app
+# Web-vanilla-app
 Vanilla project of a full stack application. 
 No framework used.
 
