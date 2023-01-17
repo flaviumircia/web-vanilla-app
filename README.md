@@ -1,5 +1,6 @@
-# Pibd_vanilla
-Vanilla project of a full stack application. No framework used. Just JSPs.
+# Wev-vanilla-app
+Vanilla project of a full stack application. 
+No framework used.
 
 # About
 This is a project for the Database course 
